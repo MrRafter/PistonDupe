@@ -1,0 +1,5 @@
+name: PistonDupe
+version: 1.0
+main: me.MrRafter.Core.Main
+authors: [MrRafter]
+description: A Simple Dupe
